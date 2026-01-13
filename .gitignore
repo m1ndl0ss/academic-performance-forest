@@ -1,0 +1,5 @@
+# Directories
+.idea/
+out/
+.vscode/
+target/
