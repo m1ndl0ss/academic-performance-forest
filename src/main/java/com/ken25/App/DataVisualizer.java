@@ -1005,7 +1005,7 @@ public class DataVisualizer extends Application {
      * @param studentInfoData the student info data
      * @param attributeColumn the column index for the attribute (1-5)
      * @param attributeName display name for the attribute
-     * @param width plot width
+     * @param minWidth plot width
      * @param height plot height
      */
     private Pane createSwarmPlot(String[][] gradesData, String[][] studentInfoData,
